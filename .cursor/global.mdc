@@ -1,6 +1,6 @@
 ---
 description: Global Cursor Rules
-globs:
+globs:*/*
 alwaysApply: true
 ---
 
