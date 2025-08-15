@@ -5,7 +5,7 @@ alwaysApply: true
 ---
 
 General Security Rules (Apply Across Languages)
-Never hardcode secrets, credentials, or API keys in code. Use environment variables or secure vaults.
+Do NOT hardcode secrets, credentials, or API keys in code. Use environment variables or secure vaults.
 Prohibit the inclusion of .env, secret config files, or unknown tokens.
 Make sure to never log sensitive data, secrets or session tokens.
 
